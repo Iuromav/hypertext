@@ -2,7 +2,7 @@
 everyone will perish someday, but for now we can perish in a good way, through action. 
 
 act, see what else is on your to-do list:
-### [[index]]
+ [[index]]
 
 
 
