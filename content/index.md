@@ -3,5 +3,8 @@ title: my to-do list
 ---
 The future of Seattle is in my hands!
 I just have to:
-* [[meet your sleep paralysis demon||sleep]]
-* [[eat the rich||eat]]
+![[20231203_143338.jpg]]
+* [[sleep]]
+* [[eat]]
+* [[move out]]
+* [[perish]]
