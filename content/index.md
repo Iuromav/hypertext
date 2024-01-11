@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: my to-do list
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+The future of Seattle is in my hands!
+I just have to:
+* [[meet your sleep paralysis demon||sleep]]
+* [[eat the rich||eat]]
