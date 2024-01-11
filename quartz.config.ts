@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Bap",
+    pageTitle: "to-do list",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
